@@ -30,3 +30,7 @@ empleados_comision = map(calculo_comision, empleados)
 
 for empleado in empleados_comision:
     print(empleado)
+
+def if __name__ == "__main__":
+    for empleado in salarios_altos:
+        print(empleado)
